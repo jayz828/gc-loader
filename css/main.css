@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+
+#main-header {
+    background-color: #1E56A6;
+    margin-left: -20px;
+    margin-right: -20px;
+    height: 50px;
+}
+
+    #main-header h1 {
+        color: white;
+        margin: 0;
+    }
+
+
+#main-text {
+    margin-top: 30%;
+}
+
+.button-container {
+    margin-top: 10px;
+}
