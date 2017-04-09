@@ -23,4 +23,5 @@ body, html {
 
 .button-container {
     margin-top: 10px;
+    /*float: right;*/
 }
